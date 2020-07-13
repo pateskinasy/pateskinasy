@@ -1,4 +1,4 @@
-![image](https://github.com/pateskinasy/pateskinasy/master/giphy.gif)
+![image](https://github.com/pateskinasy/pateskinasy/blob/master/giphy.gif)
 
 
 <!--

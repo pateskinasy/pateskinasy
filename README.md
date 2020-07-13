@@ -1,12 +1,5 @@
-### Hi there 👋
+![image](https://github.com/pateskinasy/pateskinasy/master/giphy.gif)
 
-<!--
-|  __ \               | | |          / _| | |  | |         | | | |
-| |__) |___  ___ _   _| | |_    ___ | |_  | |__| |_   _ ___| |_| | ___
-|  _  // _ \/ __| | | | | __|  / _ \|  _| |  __  | | | / __| __| |/ _ \
-| | \ \  __/\__ \ |_| | | |_  | (_) | |   | |  | | |_| \__ \ |_| |  __/
-|_|  \_\___||___/\__,_|_|\__|  \___/|_|   |_|  |_|\__,_|___/\__|_|\___|
--->
 
 <!--
 **pateskinasy/pateskinasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
